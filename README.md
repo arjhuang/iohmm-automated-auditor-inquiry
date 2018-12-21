@@ -6,3 +6,6 @@ Pushkin Kachroo, Aaron Saiewitz, Robyn Raschke, Shaurya Agarwal, Jiheng Huang
 >An "Auditor Inquiry - Client Response" data sample is also available in this repository.     
 >    
 >The program is built using Dr. Mogeng Yin's [Input Output Hidden Markov Model (IOHMM) Python package](https://github.com/Mogeng/IOHMM).      
+### Data Description
+
+>The sample data have 52 communicating dyads simulating the auditor-client communication process.
