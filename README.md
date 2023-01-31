@@ -36,6 +36,12 @@ For more information, please refer to the following:
     title={A New Language and Input-Output Hidden Markov Model for Automated Audit Inquiry},
     author={Kachroo, Pushkin and Saiewitz, Aaron and Raschke, Robyn and Agarwal, Shaurya and Huang, Archie J.},
     journal={IEEE Intelligent Systems},
-    year={2020},
+    year={2020},  
+    volume={35},
+    number={6},
+    pages={39-49},
+    doi={10.1109/MIS.2019.2963653}
     publisher={IEEE}
     }
+    
+
