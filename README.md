@@ -1,5 +1,5 @@
 # A New Language and Hidden Markov Input/Output Model for Automated Audit Inquiry | Programming Repository
-Pushkin Kachroo, Aaron Saiewitz, Robyn Raschke, Shaurya Agarwal, Jiheng Huang
+Pushkin Kachroo, Aaron Saiewitz, Robyn Raschke, Shaurya Agarwal, Archie J. Huang
 
 >This is the code reference page of the paper "A New Language and Hidden Markov Input/Output Model for Automated Audit Inquiry". 
 >    
@@ -28,13 +28,13 @@ Pushkin Kachroo, Aaron Saiewitz, Robyn Raschke, Shaurya Agarwal, Jiheng Huang
 
 For more information, please refer to the following: 
 
-  - P. Kachroo, A. Saiewitz, R. Raschke, S. Agarwal and J. Huang, ["A New Language and Input–Output Hidden Markov Model for Automated Audit Inquiry"](https://ieeexplore.ieee.org/document/8948253) in IEEE Intelligent Systems, vol. 35, no. 6, pp. 39-49, 1 Nov.-Dec. 2020
+  - P. Kachroo, A. Saiewitz, R. Raschke, S. Agarwal and A. J. Huang, ["A New Language and Input–Output Hidden Markov Model for Automated Audit Inquiry"](https://ieeexplore.ieee.org/document/8948253) in IEEE Intelligent Systems, vol. 35, no. 6, pp. 39-49, 1 Nov.-Dec. 2020
 
 ## Citation
 
     @article{kachroo2020new,
     title={A New Language and Input-Output Hidden Markov Model for Automated Audit Inquiry},
-    author={Kachroo, Pushkin and Saiewitz, Aaron and Raschke, Robyn and Agarwal, Shaurya and Huang, Jiheng},
+    author={Kachroo, Pushkin and Saiewitz, Aaron and Raschke, Robyn and Agarwal, Shaurya and Huang, Archie J.},
     journal={IEEE Intelligent Systems},
     year={2020},
     publisher={IEEE}
